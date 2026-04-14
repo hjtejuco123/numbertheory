@@ -43,10 +43,3 @@ Used in probability, counting, and decision-making.
 -   10 mod 3 = 1
 -   GCD(12, 18) = 6
 
-------------------------------------------------------------------------
-
-## Summary
-
-Number Theory is the study of integers and is widely used in security,
-computing, and mathematics.
-
