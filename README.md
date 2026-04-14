@@ -9,19 +9,6 @@ It studies: - Prime and composite numbers - Divisibility - Remainders
 (modular arithmetic) - Patterns in numbers
 
 ------------------------------------------------------------------------
-
-## Main Topics
-
--   Divisibility
--   Prime Numbers
--   GCD & LCM
--   Modular Arithmetic
--   Congruences
--   Mathematical Induction
--   Combinatorics
-
-------------------------------------------------------------------------
-
 ## Applications of Number Theory
 
 ### 1. Cryptography (Security)
